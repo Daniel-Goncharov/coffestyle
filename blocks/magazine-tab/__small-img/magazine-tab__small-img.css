@@ -1,0 +1,5 @@
+.magazine-tab__small-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

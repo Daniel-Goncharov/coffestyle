@@ -1,0 +1,6 @@
+.magazine-tab__first-column {
+  display: flex;
+  width: 460px;
+  height: 280px;
+  justify-content: space-between;
+}

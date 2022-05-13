@@ -1,0 +1,16 @@
+.shopping-button {
+  width: 173px;
+  height: 36px;
+  background: #1D1F2E;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.shopping-button:hover {
+  background: #fff;
+  color: #1D1F2E;
+}

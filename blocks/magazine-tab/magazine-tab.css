@@ -1,0 +1,6 @@
+.magazine-tab {
+  display: flex;
+  justify-content: space-between;
+  width: 940px;
+  margin: 100px auto 0;
+}

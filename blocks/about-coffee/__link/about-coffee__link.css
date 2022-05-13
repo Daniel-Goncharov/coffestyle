@@ -1,0 +1,12 @@
+.about-coffee__link {
+  width: 133px;
+  margin: 0 auto 0;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  text-align: center;
+  color: #A25F4B;
+  text-decoration: none;
+  display: block;
+  border-bottom: 2px solid rgba(162, 95, 75, 0.3);
+}

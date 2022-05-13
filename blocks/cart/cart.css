@@ -1,0 +1,9 @@
+.cart {
+  min-width: 92px;
+  min-height: 26px;
+  margin: 29px 0 25px 0;
+  border-bottom: 2px solid rgba(162, 95, 75, 0.3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

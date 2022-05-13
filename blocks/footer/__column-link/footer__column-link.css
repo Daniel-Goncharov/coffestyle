@@ -1,0 +1,11 @@
+.footer__column-link {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 22px;
+  color: rgba(29, 31, 46, 0.7);
+  text-decoration: none;
+}
+
+.footer__column-link:hover {
+  color: black;
+}

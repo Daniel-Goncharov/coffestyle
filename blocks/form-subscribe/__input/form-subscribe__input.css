@@ -1,0 +1,25 @@
+.form-subscribe__input {
+  width: 350px;
+  height: 54px;
+  margin: 0 10px 0 446px;
+  border: 1px solid #2F303E;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: #1D1F2E;
+}
+
+.form-subscribe__input:focus {
+  outline: none;
+  border: 1px solid #2F303E;
+  border-radius: 0;
+  background-color: #fff;
+}
+
+.form-subscribe__input::-webkit-input-placeholder {color:#fff;}
+.form-subscribe__input::-moz-placeholder          {color:#fff;}
+.form-subscribe__input::-ms-input-placeholder     {color:#fff;}
+.form-subscribe__input::placeholder               {color:#fff;}

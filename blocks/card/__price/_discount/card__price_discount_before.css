@@ -1,0 +1,4 @@
+.card__price_discount_before {
+  text-decoration-line: line-through;
+  color: rgba(29, 31, 46, 0.4);
+}

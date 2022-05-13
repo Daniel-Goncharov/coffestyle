@@ -1,0 +1,11 @@
+.coffee-mugs {
+  width: 1380px;
+  height: 530px;
+  box-sizing: border-box;
+  background-color: #050827;
+  margin: 0 auto 0;
+  padding: 159px 0 0;
+  text-align: center;
+  position: relative;
+  z-index: 0;
+}
